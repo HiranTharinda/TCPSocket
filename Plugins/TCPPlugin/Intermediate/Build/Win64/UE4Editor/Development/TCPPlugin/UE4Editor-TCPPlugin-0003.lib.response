@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TCPPlugin-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hiran.tharinda\Documents\Unreal Projects\TCPBuilder\Intermediate\Build\Win64\TCPBuilderEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\hiran.tharinda\Documents\Unreal Projects\TCPBuilder\Plugins\TCPPlugin\Intermediate\Build\Win64\UE4Editor\Development\TCPPlugin\TCPPlugin.cpp.obj"
+"C:\Users\hiran.tharinda\Documents\Unreal Projects\TCPBuilder\Plugins\TCPPlugin\Intermediate\Build\Win64\UE4Editor\Development\TCPPlugin\Default.rc2.res"
+/OUT:"C:\Users\hiran.tharinda\Documents\Unreal Projects\TCPBuilder\Plugins\TCPPlugin\Intermediate\Build\Win64\UE4Editor\Development\TCPPlugin\UE4Editor-TCPPlugin-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_TCPPlugin
